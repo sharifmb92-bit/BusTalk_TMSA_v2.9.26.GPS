@@ -1,6 +1,6 @@
 {
-  "name": "BusTalk",
-  "short_name": "BusTalk",
+  "name": "BusTalk v2.9.26",
+  "short_name": "BusTalk 2.9.26",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#121212",
